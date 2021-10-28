@@ -1,0 +1,27 @@
+ul li {
+  color: white;
+  cursor: pointer;
+}
+li {
+  list-style-type: none;
+}
+#tr {
+  list-style-type: none;
+  list-style-type: 10px;
+  list-style-image: url(https://raw.githubusercontent.com/ashleedawg/flags/master/TR.png);
+}
+#ru {
+  list-style-image: url(https://raw.githubusercontent.com/ashleedawg/flags/master/russia.png);
+}
+#de {
+  list-style-image: url(https://raw.githubusercontent.com/ashleedawg/flags/master/DE.png);
+}
+#gb {
+  list-style-image: url(https://raw.githubusercontent.com/ashleedawg/flags/master/GB.png);
+}
+#logo {
+  width: 70px;
+  height: 70px;
+  padding-left: 75px;
+  cursor: pointer;
+}

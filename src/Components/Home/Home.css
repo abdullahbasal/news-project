@@ -1,0 +1,14 @@
+#grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+#left-side {
+  margin-right: 15px;
+  max-width: 230px;
+}
+#left-side {
+  background-color: rgb(189, 27, 27);
+}
+#right-side {
+  margin-top: 30px;
+}

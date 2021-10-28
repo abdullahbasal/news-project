@@ -1,0 +1,12 @@
+#grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+#card {
+  width: 200px;
+  height: 200px;
+  margin: 10px 10px 250px;
+  color: black;
+  cursor: pointer;
+}

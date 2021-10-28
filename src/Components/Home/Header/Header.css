@@ -1,0 +1,9 @@
+#header {
+  background-color: rgb(189, 27, 27);
+  text-align: center;
+}
+#header-logo {
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+}
